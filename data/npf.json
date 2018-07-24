@@ -1,0 +1,34 @@
+{
+    "baasHost": "miitomobaas.test.kaeru.world",
+    "printLog": false,
+    "debugLog": false,
+    "clientId": "2c44652b8960c92e", 
+    "accountHost": "accounts.nintendo.com",
+    "apiHost": "api.accounts.nintendo.com",
+    "membersHost": "my.nintendo.com",
+    "membersBasicUserName": "members-webview",
+    "membersBasicPassword": "Sho7lohp",
+    "purchaseMock": false,
+    "ArchServerMode": "Product00",
+    "gcm_defaultSenderId": "1082543025610",
+    "vcmBundles": [
+    {
+        "sku": "com.nintendo.zaaa.discount.tier1",
+        "title": "FirstDiscount",
+        "detail": "First Discount",
+        "usdPrice": 0.99,
+        "virtualCurrencyName": "npf_gold",
+        "amount": 1000,
+        "extraAmount": 4000   
+    },    
+    {
+        "sku": "com.nintendo.zaaa.discount.tier3",
+        "title": "Sales1",
+        "detail": "Lmited Sale",
+        "usdPrice": 2.99,
+        "virtualCurrencyName": "npf_gold",
+        "amount": 3000,
+        "extraAmount": 3500   
+    } 
+    ]
+}
